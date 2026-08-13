@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.krmtest" name="KRM Test Repo" version="1.0.0" provider-name="krmtest">
+    <extension point="xbmc.addon.repository" name="KRM Test Repo">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/krmtest/repo/main/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/krmtest/repo/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/krmtest/repo/main/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>KRM Test Repository</summary>
+        <description>Službeni repo za Kodi Wizard i Build</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+</addons>
