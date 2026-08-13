@@ -7,19 +7,18 @@
   <language>hr</language>
 
   <item>
-    <title>Dobrodošli!</title>
-    <link>https://github.com/krmtest/repo</link>
-    <description>Uspješno ste povezali RSS feed za obavijesti vezane za Virgo build.</description>
-    <pubDate>Thu, 13 Aug 2026 08:45:00 GMT</pubDate>
-  </item>
-  
-  <item>
     <title>Novo ažuriranje Virgo bulda 1.2.4 je dostupno!</title>
     <link>https://github.com/krmtest/repo</link>
     <description>Uspješno ste povezali RSS feed za obavijesti vezane za Virgo build.</description>
     <pubDate>Thu, 13 Aug 2026 08:45:00 GMT</pubDate>
   </item>
 
+  <item>
+    <title>Ažuriran TV uživo, Ažuriran Viper IPTV, Novi addon za filmove i serije</title>
+    <link>https://github.com/krmtest/repo</link>
+    <description>Uspješno ste povezali RSS feed za obavijesti vezane za Virgo build.</description>
+    <pubDate>Thu, 13 Aug 2026 08:45:00 GMT</pubDate>
+  </item>
   
 </channel>
 </rss>
