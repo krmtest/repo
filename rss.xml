@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Virgo Build Obavijesti</title>
+  <link>https://github.com/krmtest/repo</link>
+  <description>Obavijesti i ažuriranja za Kodi build</description>
+  <language>hr</language>
+
+  <item>
+    <title>Dobrodošli!</title>
+    <link>https://github.com/krmtest/repo</link>
+    <description>Uspješno ste povezali RSS feed za obavijesti vezane za Virgo build.</description>
+    <pubDate>Thu, 13 Aug 2026 08:45:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>
