@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>Virgo Build Obavijesti</title>
+  <title>Virgo build obavijesti</title>
   <link>https://github.com/krmtest/repo</link>
   <description>Obavijesti i ažuriranja za Kodi build</description>
   <language>hr</language>
